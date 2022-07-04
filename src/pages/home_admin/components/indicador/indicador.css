@@ -1,0 +1,101 @@
+.molduraExternaIndicador {
+    display: flex;
+    box-sizing: border-box;
+    width: 287px;
+    height: 296px;
+    background: #FFFFFF;
+    border: 3px solid #2B3861;
+    border-radius: 36px;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tituloIndicador {
+    width: 181px;
+    height: 33px;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2B3861;
+}
+
+.progressaoIndicador {
+    width: 204px;
+    height: 204px;
+    background: #D9D9D9;
+    border: 5px solid #26D62D;
+    border-radius: 50%;
+}
+
+.molduraInternaIndicador {
+    width: 202px;
+    height: 202px;
+    border: 2.12632px solid #58628F;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: white;
+}
+
+.periodoIndicador {
+    width: 43px;
+    height: 26px;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.valorIndicador {
+    width: 84px;
+    height: 91px;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 91px;
+    display: flex;
+    align-items: center;
+    color: #2B3861;
+}
+
+.comparacaoIndicador {
+    width: 154px;
+    height: 13px;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000000;
+}
+
+.crescimentoIndicador {
+    width: 100%;
+    height: 33px;
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FF0000;
+}
