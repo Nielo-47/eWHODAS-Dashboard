@@ -1,0 +1,44 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90vw;
+    height: 12vh;
+    background: #2B3861;
+    border-radius: 45px;
+    color: white;
+}
+
+.logoENome {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    height: 85%;
+    background: #2B3861;
+    border-radius: 45px;
+}
+
+.switchModo {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    height: 100%;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 75.91px;
+    left: 1054px;
+    top: 58px;
+    background: #FFFFFF;
+    border-radius: 26.4809px;
+    color: #2B3861;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.1847px;
+    line-height: 25px;
+}

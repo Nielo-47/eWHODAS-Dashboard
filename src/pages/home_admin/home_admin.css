@@ -1,0 +1,10 @@
+.gridIndicadores {
+    display: grid;
+    margin: 3%;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(3, 32%);
+    width: 100%;
+    height: 90%;
+    grid-row-gap: 8%;
+}
